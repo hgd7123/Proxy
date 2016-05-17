@@ -10,4 +10,6 @@ CSProxy is a proxy program and generator for golang.
 * Client and Sever Msg with AES 
 * Client Not Compelete ^_^!
 
+I found many bugs! ^_^!
+
   
